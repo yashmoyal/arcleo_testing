@@ -1,6 +1,6 @@
 # Intelliconnect
 
-Intelliconnect is an AI chatbot designed to provide answers to frequently asked questions and assist users with AI-related inquiries. The chatbot aims to enhance user experience by delivering accurate and timely information.
+AI chatbot for AI and FAQs.
 
 ## Stack Requirements
 
